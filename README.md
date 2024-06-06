@@ -2,7 +2,7 @@
 This program show how to make tokens in remix.ethereum.org 
 
 ## Create a Token
-My token Name is myTok.
+My token Name is Mohit.
 The code can track of the total supply of coins, mint and burn tokens. 
 
 ## Description
